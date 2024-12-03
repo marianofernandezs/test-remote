@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 This is conflicting content from the main branch.
 >>>>>>> feature/extra-info
+=======
+This is conflicting content from the main branch.
+>>>>>>> 67290bb95799f0bf3d9099dbbf9fe3f278a18259
