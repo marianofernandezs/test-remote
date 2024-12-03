@@ -1,1 +1,1 @@
-This is the updated content from GitHub.
+This is conflicting content from the main branch.
